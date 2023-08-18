@@ -101,7 +101,7 @@ $ make dev
 
 ## 💫 Features
 
-### singup
+### signup
 ![signup](https://github.com/WallyPfister/transcendence/blob/main/img/signup.gif)
 
 - nickname 중복 및 사용 불가 문자 확인
